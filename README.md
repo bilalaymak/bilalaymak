@@ -6,8 +6,8 @@
 
 
 - 🌱 I’m currently learning **Database Testing via JDBC, PostgreSQL, MySQL in the framework of JUnit,
--    API Testing via Postman and Java in the framework of RestAssured,
--    UI Testing via Java in the framework of Selenium**
+- 🌱 API Testing via Postman and Java in the framework of RestAssured,
+- 🌱 UI Testing via Java in the framework of Selenium**
 
 - 💬 Ask me about **Java, SQL, API, Automation Testing & Manuel Testing**
 
