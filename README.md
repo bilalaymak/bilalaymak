@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalaymak&label=Profile%20views&color=0e75b6&style=flat" alt="bilalaymak" /> </p>
 
-- 🔭 I’m currently working on [DatabaseTesting-JDBC-PostgreSQL-MySQL](https://github.com/bilalaymak/DatabaseTesting-JDBC-PostgreSQL-mySQL)
 
 - 🌱 I’m currently learning **Database Testing via JDBC, PostgreSQL, MySQL in the framework of JUnit,API Testing via Postman and Java in the framework of RestAssured,UI Testing via Java in the framework of Selenium**
 
