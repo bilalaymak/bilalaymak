@@ -1,6 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Bilal Aymak</h1>
 <h3 align="center">A passionate Software QA Engineer from Turkey</h3>
+
+
+<img src="https://github.com/bulutluoz/Java-fall-2021/raw/output/github-contribution-grid-snake.gif" alt="snake gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalaymak&label=Profile%20views&color=0e75b6&style=flat" alt="bilalaymak" /> </p>
 
@@ -12,6 +15,8 @@
 - 💬 Ask me about **Java, SQL, API, Automation Testing & Manuel Testing**
 
 - 📫 How to reach me **bilalaymak@gmail.com**
+
+<img src="https://camo.githubusercontent.com/7621f768b68a83902d78592f5544a04afafe0878e850712d36879b584f62a20c/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d73657a67696e7661726c69" alt="sezginvarli" data-canonical-src="https://github-profile-trophy.vercel.app/?username=sezginvarli" style="max-width: 100%;">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
