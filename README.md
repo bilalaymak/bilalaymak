@@ -12,12 +12,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalaymak&label=Profile%20views&color=0e75b6&style=flat" alt="bilalaymak" /> </p>
 
+Highly determined, motivated Quality Assurance Engineer with an experience in both Manual and Automated Testing of web-based applications. 
+Deep understanding of SDCL and STCL. Proficient in UI and backend automation development for functional tests. 
+Detailed and result-oriented, creative problem solver, exceptional quick adaptability, collaboration, interpersonal skills, 
+good analytical and communication skills, self-motivated, productive, and fast learner. 
+Quick to assimilate the latest technologies, skills, and ideas. Positive, outstanding work ethic.
 
-- 🌱 I’m currently learning **Database Testing via JDBC, PostgreSQL, MySQL in the framework of JUnit,
-- 🌱 API Testing via Postman and Java in the framework of RestAssured,
-- 🌱 UI Testing via Java in the framework of Selenium**
+<strong>Skills:</strong><br>
+<strong>Exceptional:</strong> Communication & Compliance<br>
+<strong>Methodologies:</strong> Agile/Scrum, SDLC<br>
+<strong>Languages:</strong> JAVA, SQL, HTML-CSS<br>
+<strong>Testing Tools & Frameworks:</strong> Junit, TestNG, RestAssured API, JDBC, Postman, Selenium WebDriver<br>
+<strong>Build/CI/TM Tools:</strong> Maven, GIT, GitHub<br>
+<strong>RDBMS:</strong> PostgreSQL, MySQL<br>
+<strong>IDE:</strong> IntelliJ, NetBeans, Eclipse, VS Code<br>
+<strong>Testing Types:</strong> Manuel Testing & Automation Testing;<br>
+                       Unit Test, Database Testing, API Testing, UI Testing<br>
+                      
 
-- 💬 Ask me about **Java, SQL, API, Automation Testing & Manuel Testing**
+
+- 💬 Ask me about **Java, SQL, API, Selenium**
 
 - 📫 How to reach me **bilalaymak@gmail.com**
 
