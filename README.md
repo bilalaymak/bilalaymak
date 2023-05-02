@@ -3,8 +3,6 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Welcome+to+my+Github+page;I+am+a+passionate+Software+QA+Engineer+&font=Fira%20Code&center=true&width=740&height=45&color=293462&vCenter=true&size=30">
 </p>
-
-
  
 <div align="center">
  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="gif" class="centered" width="800" height="400">
@@ -21,13 +19,30 @@ Quick to assimilate the latest technologies, skills, and ideas. Positive, outsta
 <strong>SKILLS:</strong><br>
 <strong>Exceptional:</strong> Communication & Compliance<br>
 <strong>Methodologies:</strong> Agile/Scrum, SDLC<br>
-<strong>Languages:</strong> JAVA, SQL, HTML-CSS<br>
-<strong>Testing Tools & Frameworks:</strong> Junit, TestNG, RestAssured API, JDBC, Postman, Selenium WebDriver<br>
+<strong>Languages:</strong>
+  <a href="https://github.com/bilalaymak/JavaPractice">JAVA</a>, 
+  <a href="https://github.com/bilalaymak/sqlPractice">SQL</a>, 
+  <a href="https://github.com/bilalaymak/HTML-CSS">HTML-CSS</a>
+<br>
+<strong>Testing Tools & Frameworks:</strong> 
+ <a href="https://github.com/bilalaymak/UITesting-SeleniumWebDriver-JUnit-TestNG-Cucumber">Junit</a>, 
+  <a href="https://github.com/bilalaymak/UITesting-SeleniumWebDriver-JUnit-TestNG-Cucumber">TestNG</a>, 
+  <a href="https://github.com/bilalaymak/APITesting-RestAssured-JUnit">RestAssured API</a>, 
+  <a href="https://github.com/bilalaymak/DatabaseTesting-JDBC-PostgreSQL-mySQL">JDBC</a>, 
+  <a href="https://github.com/bilalaymak/PostmanAPITest">Postman</a>, 
+  <a href="https://github.com/bilalaymak/UITesting-SeleniumWebDriver-JUnit-TestNG-Cucumber">Selenium WebDriver</a>
+<br>
 <strong>Build/CI/TM Tools:</strong> Maven, GIT, GitHub<br>
-<strong>RDBMS:</strong> PostgreSQL, MySQL<br>
+<strong>RDBMS:</strong> 
+  <a href="https://github.com/bilalaymak/sqlPractice">PostgreSQL</a>, 
+  <a href="https://github.com/bilalaymak/sqlPractice">MySQL</a>
+<br>
 <strong>IDE:</strong> IntelliJ, NetBeans, Eclipse, VS Code<br>
 <strong>Testing Types:</strong> Manuel Testing & Automation Testing;<br>
-                       Unit Test, Database Testing, API Testing, UI Testing<br>
+<a href="https://github.com/bilalaymak/DatabaseTesting-JDBC-PostgreSQL-mySQL">Database Testing</a>, 
+<a href="https://github.com/bilalaymak/APITesting-RestAssured-JUnit">API Testing</a>, 
+<a href="https://github.com/bilalaymak/UITesting-SeleniumWebDriver-JUnit-TestNG-Cucumber">UI Testing</a>
+<br>
                       
 
 
