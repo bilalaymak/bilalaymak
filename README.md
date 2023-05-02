@@ -18,7 +18,7 @@ Detailed and result-oriented, creative problem solver, exceptional quick adaptab
 good analytical and communication skills, self-motivated, productive, and fast learner. 
 Quick to assimilate the latest technologies, skills, and ideas. Positive, outstanding work ethic.
 
-<strong>Skills:</strong><br>
+<strong>SKILLS:</strong><br>
 <strong>Exceptional:</strong> Communication & Compliance<br>
 <strong>Methodologies:</strong> Agile/Scrum, SDLC<br>
 <strong>Languages:</strong> JAVA, SQL, HTML-CSS<br>
