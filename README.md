@@ -58,7 +58,6 @@ Quick to assimilate the latest technologies, skills, and ideas. Positive, outsta
 <a href="https://linkedin.com/in/bilalaymak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilalaymak" height="30" width="40" /></a>
 </p>
 
-
 ### :hammer_and_wrench: Languages and Tools :
 <p align="left"> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -72,11 +71,33 @@ Quick to assimilate the latest technologies, skills, and ideas. Positive, outsta
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bilalaymak&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 50%; padding: 5px;">
+      <img src="https://github-contributor-stats.vercel.app/api?username=bilalaymak&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
+    </td>
+    <td style="width: 50%; padding: 5px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=bilalaymak&theme=prussian&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Readme Stats">
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 50%; padding: 5px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalaymak&theme=prussian&hide_border=true" alt="GitHub Streak Stats">
+    </td>
+    <td style="width: 50%; padding: 5px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalaymak&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Top Languages">
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 50%; padding: 5px;">
+      <figure>
+        <embed src="https://wakatime.com/share/@1c1ed9db-19f6-419e-a2b6-4e4d0e89526f/ab946edb-85a3-4ccc-b0dc-ce611f89c6b4.svg">
+      </figure>
+      </td>
+  </tr>
+</table>
 
-![](https://github-readme-stats.vercel.app/api?username=bilalaymak&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bilalaymak&theme=prussian&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalaymak&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+   <img src="https://wakatime.com/share/@1c1ed9db-19f6-419e-a2b6-4e4d0e89526f/ab946edb-85a3-4ccc-b0dc-ce611f89c6b4.svg" alt="Açıklama metni" width="50%" height="50%">
 
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
