@@ -11,6 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalaymak&label=Profile%20views&color=0e75b6&style=flat" alt="bilalaymak" /> </p>
 
 Software Engineer
+<br>
 <strong>SKILLS:</strong><br>
 <strong>Exceptional:</strong> Communication & Compliance<br>
 <strong>Methodologies:</strong> Agile/Scrum, SDLC<br>
