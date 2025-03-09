@@ -10,12 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalaymak&label=Profile%20views&color=0e75b6&style=flat" alt="bilalaymak" /> </p>
 
-Highly determined, motivated Quality Assurance Engineer with an experience in both Manual and Automated Testing of web-based applications. 
-Deep understanding of SDCL and STCL. Proficient in UI and backend automation development for functional tests. 
-Detailed and result-oriented, creative problem solver, exceptional quick adaptability, collaboration, interpersonal skills, 
-good analytical and communication skills, self-motivated, productive, and fast learner. 
-Quick to assimilate the latest technologies, skills, and ideas. Positive, outstanding work ethic.
-
+Software Engineer
 <strong>SKILLS:</strong><br>
 <strong>Exceptional:</strong> Communication & Compliance<br>
 <strong>Methodologies:</strong> Agile/Scrum, SDLC<br>
